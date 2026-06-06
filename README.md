@@ -1,6 +1,6 @@
 # hi, i'm sandra!
 
-˚⊹ m.sc. infosys student at TUM based in munich
+˚⊹ m.sc. infosys student at TUM, based in munich
 
 ˚⊹ passionate about building things
 
