@@ -1,16 +1,40 @@
-## Hi there 👋
+# ✦ hi, i'm sandra
 
-<!--
-**giursan/giursan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⋆⭒˚.⋆ &nbsp; m.sc. infosys student at TUM · passionate about building things · based in munich
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**✦ info**
+
+˚⊹ m.sc. infosys @ TUM (ongoing)
+˚⊹ b.sc. infosys @ JMU
+˚⊹ focussing on multimodal (clinical) AI & fullstack dev
+˚⊹ interested in robotics
+
+**✦ recents**
+
+˚⊹ loopy – CV-based GIF generator
+˚⊹ aura – multimodal pitch agent
+˚⊹ mx-machine – productivity enhancement for logitech
+
+---
+
+**✦ hackathons**
+
+˚⊹ 2025: hackaTUM
+˚⊹ 2026: HackNation
+˚⊹ 2026: EuroTech HK
+
+**✦ outside of work**
+
+˚⊹ love learning languages
+
+---
+
+**✦ interests**
+
+`✦ generative AI` &nbsp; `✦ clinical AI` &nbsp; `✦ multimodal models` &nbsp; `✦ digital health` &nbsp; `✦ LLM safety` &nbsp; `✦ startups`
+
+---
+
+⋆⭒˚.⋆ &nbsp; munich · she/her · open to collabs
