@@ -1,10 +1,8 @@
 # hi, i'm sandra!
 
-˚⊹ m.sc. infosys student at TUM 
+˚⊹ m.sc. infosys student at TUM based in munich
 
 ˚⊹ passionate about building things
-
-˚⊹ based in munich
 
 ˚⊹ focussing on multimodal (clinical) AI & fullstack dev
 
