@@ -1,4 +1,4 @@
-# hi, i'm sandra!
+### hi, i'm sandra!
 
 ˚⊹ m.sc. infosys student at TUM, based in munich
 
